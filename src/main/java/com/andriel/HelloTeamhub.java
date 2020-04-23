@@ -6,5 +6,6 @@ public class HelloTeamhub {
         System.out.println("hello team hub");
         int x = 9;
         int y =10;
+        int z = 2;
     }
 }
